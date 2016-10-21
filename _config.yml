@@ -5,14 +5,14 @@ markdown: kramdown
 disqus: # disqus-username
 google_analytics_id: '' # XY-99999999-9
 
-description: Jekyll Based Blog Starter Template with Pygments Highlighter
+description: Elliott's Engineering Extravaganza
 
-author:
-  name: ''
-  email: ''
-  github: # gitHub-username
-  linkedin: # profile-id
-  email_md5: '' # used for gravatar sidebar user image
+author: Elliott Birch
+  name: 'Elliott Birch'
+  email: 'elliottabirch@gmail.com'
+  github: elliottabirch
+  linkedin: elliottabirch
+  email_md5: 'elliottabirch@gmail.com' # used for gravatar sidebar user image
 
 BASE_PATH:
 
