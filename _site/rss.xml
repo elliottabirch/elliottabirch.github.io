@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Jekyll Based Blog Starter Template with Pygments Highlighter</description>
+		<link>/</link>
+		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Example post Numero 2</title>
+				<description>&lt;h2 id=&quot;example-post-2&quot;&gt;Example Post 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas mi sit amet congue fermentum. Nam vulputate ex 
+sit amet gravida ornare. Nullam ex arcu, tempus sit amet tellus vehicula, sollicitudin dictum sapien. Mauris laoreet 
+nibh vitae nisi sollicitudin congue. Vivamus imperdiet, metus quis luctus pretium, velit est facilisis erat, non 
+malesuada est tellus ut lacus. Fusce dignissim augue tellus, nec elementum leo rutrum eget. Etiam dui erat, faucibus at 
+vestibulum ac, feugiat a ante. Suspendisse interdum diam tempus nulla lacinia aliquet. Nulla ac consequat nisi, in 
+vestibulum nibh. Morbi eu dapibus neque, non malesuada libero.&lt;/p&gt;
+
+</description>
+				<pubDate>Sat, 26 Dec 2015 04:00:00 -0800</pubDate>
+				<link>/posts/2015/12/26/example-post-2.html</link>
+				<guid isPermaLink="true">/posts/2015/12/26/example-post-2.html</guid>
+			</item>
+		
+			<item>
+				<title>Example post</title>
+				<description>&lt;h2 id=&quot;blog-starter-kit-using-flex-a-jekyll-theme&quot;&gt;Blog Starter Kit using Flex, a Jekyll theme&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas mi sit amet congue fermentum. Nam vulputate ex 
+sit amet gravida ornare. Nullam ex arcu, tempus sit amet tellus vehicula, sollicitudin dictum sapien. Mauris laoreet 
+nibh vitae nisi sollicitudin congue. Vivamus imperdiet, metus quis luctus pretium, velit est facilisis erat, non 
+malesuada est tellus ut lacus. Fusce dignissim augue tellus, nec elementum leo rutrum eget. Etiam dui erat, faucibus at 
+vestibulum ac, feugiat a ante. Suspendisse interdum diam tempus nulla lacinia aliquet. Nulla ac consequat nisi, in 
+vestibulum nibh. Morbi eu dapibus neque, non malesuada libero.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 25 Dec 2015 04:00:00 -0800</pubDate>
+				<link>/posts/2015/12/25/example-post.html</link>
+				<guid isPermaLink="true">/posts/2015/12/25/example-post.html</guid>
+			</item>
+		
+	</channel>
+</rss>
